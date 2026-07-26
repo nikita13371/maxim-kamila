@@ -134,8 +134,8 @@ const КЛИЕНТ = {
     'media/cities/almaty-6.jpg',
     'media/cities/almaty-7.jpg',
   ],
-},
-  },
+},         
+},         
 
 
   // ─── ЛЮБИМЫЕ ФИЛЬМЫ ──────────────────────────
