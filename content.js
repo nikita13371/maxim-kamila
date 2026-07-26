@@ -125,15 +125,15 @@ const КЛИЕНТ = {
     almaty: {
       название: 'Алматы',
       описание: 'Город где произошла та самая случайная встреча. Здесь они познакомились, начали встречаться и переехали жить вместе.',
-      фото: [
-        'media/cities/almaty-1.jpg',
-        'media/cities/almaty-2.jpg',
-        'media/cities/almaty-3.jpg',
-        'media/cities/almaty-4.jpg',
-        'media/cities/almaty-5.jpg',
-        'media/cities/almaty-6.jpg',
-        'media/cities/almaty-7.jpg',
-      ],
+      фото: фото: [
+            'media/cities/almaty-1.jpg',
+            'media/cities/almaty-2.jpg',
+            'media/cities/almaty-3.jpg',
+            'media/cities/almaty-4.jpg',
+            'media/cities/almaty-5.jpg',
+            'media/cities/almaty-6.jpg',
+            'media/cities/almaty-7.jpg',
+],
     },
   },
 
